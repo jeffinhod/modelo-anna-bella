@@ -1,0 +1,64 @@
+*{
+  margin: none;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  margin: 0 auto;
+  background-image: url("./assents/imagens/fundo.png");
+  width: 56.2rem;
+  padding: 0 2rem;
+
+}
+
+header{
+  width: 56.2rem;
+}
+
+nav {
+  padding: 20px 0;
+  background-color: #c5c5b2;
+}
+
+.links{
+  text-decoration: none;
+  margin-left: 10px;
+  font-weight: 600;
+  color: #4b566a;
+
+}
+
+main{
+  background-color: rgb(225, 217, 217);
+  margin-top: 0;
+}
+
+h2{
+  margin: 0;
+  padding-top: 20px;
+  color: rgb(171, 153, 128);
+}
+
+p{
+  padding-bottom: 10px;
+}
+
+.conteudo{
+  margin-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+#direitos{
+  text-align: center;
+  font-weight: 500;
+}
+
+.fotos{
+  display: block;
+  margin: 0 auto;
+  border: .5rem solid rgb(181, 158, 117);
+}
+
